@@ -6,7 +6,7 @@
 ## 🚀 Live Preview
 
 👉 🔗 **Check it out now:**  
-🌐 ![Travel Hive Preview](https://arnob-travel-hive.netlify.app/)
+🌐  [https://your-live-site-link.netlify.app](https://arnob-travel-hive.netlify.app/)
 
 📱 Fully responsive on all devices — mobile, tablet, and desktop!
 
