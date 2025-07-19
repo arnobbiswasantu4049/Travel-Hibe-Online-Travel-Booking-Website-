@@ -3,6 +3,15 @@
 ![Travel Hive Preview](https://i.imgur.com/zfFWTSx.png) 
 
 
+## 🚀 Live Preview
+
+👉 🔗 **Check it out now:**  
+🌐 ![Travel Hive Preview](https://arnob-travel-hive.netlify.app/)
+
+📱 Fully responsive on all devices — mobile, tablet, and desktop!
+
+
+
 ## 🌟 About The Project
 A modern travel booking platform showcasing destinations across Asia with:
 - Service cards (Flights, Hotels, Tours)
